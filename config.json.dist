@@ -1,0 +1,10 @@
+{
+    "db": {
+        "database": "postgres",
+        "dialect": "postgres",
+        "username": "postgres",
+        "password": "EXAMPLE_PASSWORD",
+        "host": "pgsql",
+        "port": 5432
+    }
+}
